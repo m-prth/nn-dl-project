@@ -1,0 +1,45 @@
+# Ignore compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+*.png
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.lof
+*.lot
+*.jpg
+*.synctex.gz
+*.toc
+*.out
+*.gz
+# Ignore executables
+*.exe
+*.out
+*.app
+
+# Ignore binary and cache files
+*.bin
+*.so
+*.dll
+*.pyc
+
+__pycache__/
+
+# Ignore temporary files
+*.swp
+*.swo
+*.tmp
+*.log
+*.bak
+*.cache
+
+# Ignore environment files
+.env
+.venv
+env/
+venv/
