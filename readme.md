@@ -14,12 +14,7 @@ The following modules were used in this project:
 * TensorFlow version: 2.4.0
 
 ## Setup
-To run this project, you will need to have Python 3.x installed on your system. You can install the required packages by running the following command in your terminal:
-
-```
-pip install -r requirements.txt
-```
-After installing the required packages, you can run the Jupyter notebook by executing the following command in your terminal:
+To run this project, you will need to have Python 3.x installed on your system with the packages mentioned above installed. After installing the required packages, you can run the Jupyter notebook by executing the following command in your terminal:
 
 ```
 jupyter notebook CreditCardDefaultPrediction.ipynb
